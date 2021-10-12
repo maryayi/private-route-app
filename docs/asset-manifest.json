@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/private-route-app/static/css/main.69d5e4c4.chunk.css",
+    "main.js": "/private-route-app/static/js/main.f0fd3851.chunk.js",
+    "main.js.map": "/private-route-app/static/js/main.f0fd3851.chunk.js.map",
+    "runtime-main.js": "/private-route-app/static/js/runtime-main.2e26a4f0.js",
+    "runtime-main.js.map": "/private-route-app/static/js/runtime-main.2e26a4f0.js.map",
+    "static/js/2.33eb960b.chunk.js": "/private-route-app/static/js/2.33eb960b.chunk.js",
+    "static/js/2.33eb960b.chunk.js.map": "/private-route-app/static/js/2.33eb960b.chunk.js.map",
+    "static/js/3.81a53d37.chunk.js": "/private-route-app/static/js/3.81a53d37.chunk.js",
+    "static/js/3.81a53d37.chunk.js.map": "/private-route-app/static/js/3.81a53d37.chunk.js.map",
+    "index.html": "/private-route-app/index.html",
+    "static/css/main.69d5e4c4.chunk.css.map": "/private-route-app/static/css/main.69d5e4c4.chunk.css.map",
+    "static/js/2.33eb960b.chunk.js.LICENSE.txt": "/private-route-app/static/js/2.33eb960b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e26a4f0.js",
+    "static/js/2.33eb960b.chunk.js",
+    "static/css/main.69d5e4c4.chunk.css",
+    "static/js/main.f0fd3851.chunk.js"
+  ]
+}
