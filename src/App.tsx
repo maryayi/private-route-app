@@ -56,7 +56,7 @@ function App() {
             <li>
               <Link to="/admin">
                 <a>
-                  Only for admin
+                  Only for admins
                 </a>
               </Link>
             </li>
